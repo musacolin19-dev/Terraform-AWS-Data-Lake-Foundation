@@ -1,0 +1,2 @@
+bucket_name = "replace-with-your-unique-portfolio-data-lake-bucket"
+aws_region = "us-east-1"
